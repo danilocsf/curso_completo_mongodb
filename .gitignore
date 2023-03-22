@@ -35,7 +35,6 @@ build/
 ##############################
 ## específicos
 ##############################
-data
+data/
+config/
 
-# Ignore arquivos relacionados às variaveis de ambiente
-.env
